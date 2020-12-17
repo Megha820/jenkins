@@ -1,0 +1,7 @@
+C:\Users\Deepesh\source\repos\jenkinssolution\jenkinsproject\bin\Debug\jenkinsproject.exe.config
+C:\Users\Deepesh\source\repos\jenkinssolution\jenkinsproject\bin\Debug\jenkinsproject.exe
+C:\Users\Deepesh\source\repos\jenkinssolution\jenkinsproject\bin\Debug\jenkinsproject.pdb
+C:\Users\Deepesh\source\repos\jenkinssolution\jenkinsproject\obj\Debug\jenkinsproject.csprojAssemblyReference.cache
+C:\Users\Deepesh\source\repos\jenkinssolution\jenkinsproject\obj\Debug\jenkinsproject.csproj.CoreCompileInputs.cache
+C:\Users\Deepesh\source\repos\jenkinssolution\jenkinsproject\obj\Debug\jenkinsproject.exe
+C:\Users\Deepesh\source\repos\jenkinssolution\jenkinsproject\obj\Debug\jenkinsproject.pdb
